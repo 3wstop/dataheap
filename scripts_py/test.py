@@ -1,1 +1,1 @@
-pint("Hello")
+"Hello"
